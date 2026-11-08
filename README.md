@@ -58,10 +58,15 @@ Important Features
 The dataset contains four equally distributed price categories:
 
 Price Category| Mobile Phones
+
 LOW| 500
+
 MEDIUM| 500
+
 HIGH| 500
+
 VERY HIGH| 500
+
 Total| 2,000
 
 * Project Workflow
@@ -94,6 +99,9 @@ This project helped me improve my practical Excel skills and understand how data
 It also gave me hands-on experience in data cleaning, Pivot Tables, data summarisation, and dashboard creation.
 
 Project Type: Data Analytics
+
 Domain: Mobile Technology
+
 Tool: Microsoft Excel
+
 Created by: Asliya CP
